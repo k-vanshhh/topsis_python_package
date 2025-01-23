@@ -144,6 +144,6 @@ This package is distributed under the MIT License. See `LICENSE` for more detail
 
 ## Author
 
-Developed by **Vansh (Roll Number: 102203021)**.
+Developed by **Vansh Kansal (Roll Number: 102203021)**.
 
-For any questions or feedback, please contact **vansh@example.com**.
+For any questions or feedback, please contact **vanshkansal5@example.com**.
