@@ -140,4 +140,4 @@ You can test the package using the following example files:
 
 Developed by **Vansh Kansal (Roll Number: 102203021)**.
 
-For any questions or feedback, please contact **vanshkansal5@example.com**.
+For any questions or feedback, please contact **vanshkansal5@gmail.com**.

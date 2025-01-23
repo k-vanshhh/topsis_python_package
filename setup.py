@@ -1,12 +1,14 @@
+from setuptools import setup, find_packages
+
 setup(
     name="Topsis-Vansh-102203021",
-    version="0.1.1",  # Incremented version number
+    version="0.1.1",
     author="Vansh",
-    author_email="your_email@example.com",
+    author_email="vanshkansal5@example.com",
     description="A Python package for implementing the TOPSIS decision-making method.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/YourGitHubUsername/Topsis-Vansh-102203021",
+    url="https://github.com/k-vanshhh/topsis_python_package",
     packages=find_packages(),
     install_requires=[
         "pandas",
