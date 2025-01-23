@@ -136,12 +136,6 @@ You can test the package using the following example files:
 
 ---
 
-## License
-
-This package is distributed under the MIT License. See `LICENSE` for more details.
-
----
-
 ## Author
 
 Developed by **Vansh Kansal (Roll Number: 102203021)**.
